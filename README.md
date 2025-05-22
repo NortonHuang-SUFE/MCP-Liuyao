@@ -1,4 +1,8 @@
-[中文版说明 (Chinese Version)](./docs/README-cn.md) [What is Liuyao/什么是六爻](./docs/README-cn.md) 
+<p align="center">
+  <img src="./image/20250522_2159_Modern Mystical Meditation_simple_compose_01jvw4j5pzf1592xfn21xnqkc0.png" alt="Hexagram Image" width="400"/>
+</p>
+
+[中文版说明 (Chinese Version)](./docs/README-cn.md) [What is Liuyao/什么是六爻](./docs/Introduction-to_Liuyao.md) 
 
 # mcp-Liuyao
 
