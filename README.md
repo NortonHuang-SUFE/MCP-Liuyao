@@ -4,10 +4,10 @@
 
 [中文版说明 (Chinese Version)](./docs/README-cn.md) [What is Liuyao/什么是六爻](./docs/Introduction-to-Liuyao.md) 
 
-# mcp-Liuyao
+# Hexapulse
 
 ## Project Introduction
-**mcp-Liuyao** is an intelligent divination tool designed for all users. It allows you to obtain rigorous and professional hexagram interpretations with only the most basic information, without needing to understand the complex principles of the I Ching. Whether you want to explore life directions, solve real-world problems, or simply experience the wisdom of traditional culture, mcp will treat every one of your questions with care.
+**Hexapulse** is an intelligent divination **MCP** tool designed for all users. It allows you to obtain rigorous and professional hexagram interpretations with only the most basic information, without needing to understand the complex principles of the I Ching. Whether you want to explore life directions, solve real-world problems, or simply experience the wisdom of traditional culture, mcp will treat every one of your questions with care.
 
 ## How to Use
 1. **Configure the following in any mcp client (cursor, cline, Claude):**
