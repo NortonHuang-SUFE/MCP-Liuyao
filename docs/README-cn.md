@@ -34,6 +34,10 @@
 
 2. **向 agent 提问，比如"今晚吃什么？"**
 
+   <p align="center">
+     <img src="../image/cursor-CN.gif" alt="Cursor 使用演示" width="600"/>
+   </p>
+
 3. **感受神的指引**
 
 ## mcp 工具会自动为你完成：

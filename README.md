@@ -38,6 +38,10 @@
 
 2. **Ask agent what to eat tonight.**
 
+   <p align="center">
+     <img src="./image/cursor-EN.gif" alt="Cursor Usage Demo" width="600"/>
+   </p>
+
 3. **Feel the guide of God**
 
 ## The mcp tool will automatically:
